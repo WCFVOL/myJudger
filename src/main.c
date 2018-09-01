@@ -11,6 +11,7 @@ struct arg_str *exe_path, *input_path, *output_path, *error_path, *args, *env, *
 struct arg_end *end;
 
 int main(int argc, char *argv[]) {
+    // argtable包解析参数
     void *arg_table[] = {
             help = arg_litn(NULL, "help", 0, 1, "Display This Help And Exit"),
             version = arg_litn(NULL, "version", 0, 1, "Display Version Info And Exit"),
