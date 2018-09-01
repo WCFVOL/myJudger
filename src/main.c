@@ -47,7 +47,7 @@ int main(int argc, char *argv[]) {
     if (help->count > 0) {
         printf("Usage: %s", name);
         arg_print_syntax(stdout, arg_table, "\n\n");
-        arg_print_glossary(stdout, arg_table, "  %-25s %s\n");
+        arg_print_glossary(stdout, arg_table, "  %-30s %s\n");
         goto exit;
     }
 

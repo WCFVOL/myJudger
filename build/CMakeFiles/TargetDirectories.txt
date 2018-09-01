@@ -1,7 +1,0 @@
-/home/wangchunfei/project/myJudger/build/CMakeFiles/install.dir
-/home/wangchunfei/project/myJudger/build/CMakeFiles/list_install_components.dir
-/home/wangchunfei/project/myJudger/build/CMakeFiles/rebuild_cache.dir
-/home/wangchunfei/project/myJudger/build/CMakeFiles/libjudger.so.dir
-/home/wangchunfei/project/myJudger/build/CMakeFiles/install/strip.dir
-/home/wangchunfei/project/myJudger/build/CMakeFiles/install/local.dir
-/home/wangchunfei/project/myJudger/build/CMakeFiles/edit_cache.dir
